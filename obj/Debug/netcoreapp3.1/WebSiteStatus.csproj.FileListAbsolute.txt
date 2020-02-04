@@ -58,3 +58,9 @@ c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.
 c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
 c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
 c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+c:\Learning\DotnetCore\WebSiteStatus\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
